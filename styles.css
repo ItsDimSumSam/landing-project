@@ -1,0 +1,9 @@
+.header {
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+li {
+    display: flex;
+    align-items: flex-end;
+}
