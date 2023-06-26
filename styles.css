@@ -1,9 +1,49 @@
-.header {
-    color: blue;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-li {
+.header.left {
+    margin-top: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     display: flex;
-    align-items: flex-end;
+    justify-content: space-between;
+}
+
+.left {
+    display: flex;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.top {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.bottom {
+font-size: 15px;
+}
+
+button {
+    border: black;
+    border-radius: 10px;
+    background-color: #eee;
+}
+.recs {
+    display: flex;
+    justify-content: center;
+}
+
+.avatar {
+    height: 200px;
+    width: min-content;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
 }
