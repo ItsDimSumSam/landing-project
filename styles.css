@@ -13,14 +13,13 @@ body {
     width: 200px;
 }
 
-.avatartwo {
-    display: inline-block;
-}
-
-
 .top {
     font-size: 30px;
     font-weight: bold;
+}
+
+.info {
+    max-width: 200px;
 }
 
 .bottom {
@@ -33,9 +32,9 @@ button {
     background-color: #eee;
 }
 .recs {
-    max-width: 200px;
     display: flex;
     justify-content: center;
+    gap: 40px;
 }
 
 .avatar, .avatartwo {
@@ -59,6 +58,10 @@ ul {
 .left {
     display: flex;
     justify-content: flex-start;
+}
+
+.text {
+    max-width: 200px;
 }
 
  a:link { text-decoration: none; }
