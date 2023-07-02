@@ -64,6 +64,13 @@ ul {
     max-width: 200px;
 }
 
+.quote {
+    font-size: 27px;
+    font-style: italic;
+    padding: 50px;
+    background-color: lightpink;
+}
+
  a:link { text-decoration: none; }
 
 
