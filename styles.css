@@ -75,6 +75,8 @@ ul {
     font-style: italic;
     padding: 50px;
     background-color: lightpink;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
  a:link { text-decoration: none; }
