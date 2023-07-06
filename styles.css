@@ -84,6 +84,14 @@ ul {
     margin-bottom: 50px;
 }
 
+.action {
+    background-color: palegoldenrod;
+    padding: 20px;
+    height: 50px;
+    width: 700px;
+    background-position:center;
+}
+
  a:link { text-decoration: none; }
 
 
