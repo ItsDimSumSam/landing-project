@@ -89,3 +89,10 @@ a:hover { text-decoration: none; }
 
 
 a:active { text-decoration: none; }
+
+.footer {
+    font-size: 15px;
+    background-color: palevioletred;
+    margin-top: 20px;
+    padding: 20px;
+}
