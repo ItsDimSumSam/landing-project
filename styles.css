@@ -4,6 +4,12 @@ body {
     background-color:beige;
 }
 
+.button {
+    background-color: lightgray;
+    text-align: right;
+}
+
+
 .container {
     text-align: center;
     margin-left: 20px;
@@ -85,6 +91,16 @@ ul {
     margin-bottom: 50px;
 }
 
+.first
+{
+    font-weight: bold;
+    text-align: left;
+}
+.second
+{
+    text-align: left;
+}
+
 .action {
     background-color: lightcoral;
     margin:auto;
@@ -113,6 +129,4 @@ a:active { text-decoration: none; }
     padding: 20px;
 }
 
-button {
-    background-color: lightgray;
-}
+
