@@ -87,10 +87,11 @@ ul {
 
 .action {
     background-color: lightcoral;
+    margin:auto;
     padding: 20px;
     height: 50px;
     width: 700px;
-    background-position:center;
+    
 }
 
  a:link { text-decoration: none; }
