@@ -1,6 +1,7 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center; 
+    background-color:beige;
 }
 
 .container {
@@ -14,7 +15,7 @@ body {
 }
 
 .overview {
-    background-color: palevioletred;
+    background-color: lightpink;
 }
 
 .top {
@@ -85,7 +86,7 @@ ul {
 }
 
 .action {
-    background-color: palegoldenrod;
+    background-color: lightcoral;
     padding: 20px;
     height: 50px;
     width: 700px;
@@ -108,4 +109,8 @@ a:active { text-decoration: none; }
     background-color: palevioletred;
     margin-top: 20px;
     padding: 20px;
+}
+
+button {
+    background-color: lightgray;
 }
