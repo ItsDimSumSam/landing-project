@@ -88,6 +88,7 @@ ul {
 .action {
     background-color: lightcoral;
     margin:auto;
+    margin-bottom: 50px;
     padding: 20px;
     height: 50px;
     width: 700px;
